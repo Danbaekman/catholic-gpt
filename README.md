@@ -1,3 +1,18 @@
+## ✨ Contribution
+**Catholic GPT** 프로젝트에서 **복사 버튼 기능**을 추가하는 작업을 했습니다.
+🔗 [Pull Request #7](https://github.com/bryanguillen/catholic-gpt/pull/7)
+
+### 📌 기능: 복사 버튼 추가
+- 사용자가 생성된 응답을 **한 번의 클릭**으로 쉽게 복사할 수 있도록 기능을 구현했습니다.
+- **JavaScript의 Clipboard API**를 활용하여 복사 기능을 구현했습니다.
+
+### 🛠 사용한 기술
+- React  
+- JavaScript (Clipboard API 활용)  
+- Styled-components  
+
+---
+
 # Catholic GPT
 
 ## Project Overview  
