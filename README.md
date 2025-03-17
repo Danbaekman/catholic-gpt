@@ -1,4 +1,4 @@
-## ✨ Contribution
+## Contribution
 **Catholic GPT** 프로젝트에서 **복사 버튼 기능**을 추가하는 작업을 했습니다.
 🔗 [Pull Request #7](https://github.com/bryanguillen/catholic-gpt/pull/7)
 
